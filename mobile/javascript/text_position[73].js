@@ -1,0 +1,1 @@
+﻿positionForPages[74]=[{word:"Thank you for visiting!",left:0.342278,top:0.088978,width:0.158487,height:0.253300},{word:"Untuk informasi lebih lanjut tentang kesehatan mulut dapat dilihat di website: ",left:0.221533,top:0.036148,width:0.328158,height:0.185385},{word:"https://drgsusannahalim.github.io",left:0.702333,top:0.025300,width:0.112652,height:0.677033}];

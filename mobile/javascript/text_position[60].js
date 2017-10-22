@@ -1,0 +1,1 @@
+﻿positionForPages[61]=[{word:"Saat Anda mengunjungi",left:-0.725800,top:0.083437,width:0.969502,height:0.809237},{word:"dokter gigi, beberapa hal",left:-0.745800,top:0.075033,width:1.109595,height:0.820833},{word:"mungkin akan dilakukan…",left:-0.817800,top:0.116002,width:1.301632,height:0.933802}];

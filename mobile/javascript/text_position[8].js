@@ -1,0 +1,1 @@
+﻿positionForPages[9]=[{word:"Kenapa kesehatan gigi",left:-0.679722,top:0.108348,width:0.905646,height:0.788068},{word:"penting?",left:-0.258944,top:0.075033,width:0.604905,height:0.333973},{word:"By: drg. Susanna Halim, FISID",left:0.203722,top:0.033945,width:0.720377,height:0.169777}];

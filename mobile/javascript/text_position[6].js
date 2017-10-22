@@ -1,0 +1,1 @@
+﻿positionForPages[7]=[{word:"Menjaga gigi, gusi \& ",left:-0.620389,top:0.133409,width:0.846313,height:0.753789},{word:"mulut sehat",left:-0.331000,top:0.116002,width:0.676961,height:0.447002},{word:"By: drg. Susanna Halim, FISID",left:0.203722,top:0.033945,width:0.720377,height:0.169777}];

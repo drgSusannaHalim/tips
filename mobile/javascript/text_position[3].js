@@ -1,0 +1,1 @@
+﻿positionForPages[4]=[{word:"Apa itu kesehatan mulut?",left:0.303611,top:0.096315,width:0.058531,height:0.207296},{word:"By: drg. Susanna Halim, FISID",left:1.203722,top:0.033945,width:0.279623,height:1.169777}];

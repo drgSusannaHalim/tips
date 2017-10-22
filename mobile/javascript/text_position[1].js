@@ -1,0 +1,1 @@
+﻿positionForPages[2]=[{word:"Teeth to ",left:0.170067,top:0.087974,width:0.478241,height:0.082093},{word:"Treasure",left:0.170067,top:0.090724,width:0.600501,height:0.079343},{word:"By: drg. Susanna Halim, FISID",left:1.220389,top:0.033945,width:0.385224,height:1.186444}];
